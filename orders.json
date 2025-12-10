@@ -1,0 +1,47 @@
+{
+  "S31851": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Daniel Rothe, Hofen 15, 87527 Sonthofen, Deutschland",
+    "receiver": "Emanuel Laiber, Plesch 13, 8354 Sankt Anna am Aigen, Österreich",
+    "price": "9.000 €",
+    "description": "Hersteller: Rauch<br>Typ: Axis M 30.2 EMC-VSdyn Düngerstreuer<br>Baujahr: 2019<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Emanuel Laiber<br>Plesch 13<br>8354 Sankt Anna am Aigen<br>Österreich<br>Telefon: +43 6644238028",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "10.12.2025",
+    "deliveryDate": "16.12.2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
